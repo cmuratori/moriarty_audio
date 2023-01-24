@@ -1,4 +1,4 @@
-# Can you process this audio to sound clean?
+# Do you know how to fix this audio?
 
 During the spring of 2022, I conducted a lengthy interview with Professor Brian Moriarty, the creator of no less than three seminal adventure games: [Wishbringer](https://en.wikipedia.org/wiki/Wishbringer), [Trinity](https://en.wikipedia.org/wiki/Trinity_(video_game)), and [Loom](https://en.wikipedia.org/wiki/Loom_(video_game)). The interview was conducted remotely. Due to technical issues, the locally-recorded audio of Brian's microphone for the first session was lost.
 
